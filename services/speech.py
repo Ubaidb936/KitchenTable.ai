@@ -11,7 +11,7 @@ from datetime import datetime
 
 
 # os.environ["OPENAI_API_KEY"] 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="")
 
 
 class Speech:
