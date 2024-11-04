@@ -6,7 +6,7 @@ from langchain_chroma import Chroma
 from uuid import uuid4
 from langchain_core.documents import Document
 
-api_key = "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"
+api_key = ""
 
 class VectorDB:
     def __init__(self, collection_name: str):
